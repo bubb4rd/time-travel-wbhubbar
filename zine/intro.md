@@ -1,6 +1,6 @@
-# Welcome to the Time Travel Chronicles
+# Welcome to Time Travel Magazine
 
-Have you ever wondered what it would be like to step into a time machine and explore different eras? This zine explores the fascinating concepts, paradoxes, and mind-bending possibilities of temporal navigation.
+Imagine stepping into a time machine and visiting ancient civilizations, witnessing the construction of the pyramids, or walking with dinosaurs. This zine explores the fascinating concepts and paradoxes of temporal navigation.
 
 Join us as we journey through the fourth dimension, where past, present, and future collide in extraordinary ways.
 
