@@ -25,5 +25,5 @@
 - feat: add scientific theories article 
 - polish: enhance introduction with improved language
 </br>
-**Contributor**: Bo Hubbard (wbhubbar)
-**Date**: October 22, 2025
+**Contributor:** Bo Hubbard (wbhubbar)
+**Date:** October 22, 2025
