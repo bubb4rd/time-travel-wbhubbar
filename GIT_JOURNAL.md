@@ -1,0 +1,3 @@
+# Git Journal
+
+Through this project, I learned the importance of atomic commits and structured PR workflows for managing collaborative development. Two key mistakes I fixed were: (1) accidentally committing directly to main instead of a feature branch, resolved using `git reset --soft HEAD~1` to uncommit, then creating the proper branch; and (2) creating a messy merge conflict that I initially tried to force through, fixed by using `git merge --abort` and taking a cleaner approach. The command that saved the day was `git reflog`, which helped me recover from a mistaken hard reset by showing my complete commit history and allowing me to restore lost work.
