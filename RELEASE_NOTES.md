@@ -24,5 +24,6 @@
 - feat: establish zine structure and layout 
 - feat: add scientific theories article 
 - polish: enhance introduction with improved language
+</br>
 **Contributor**: Bo Hubbard (wbhubbar)
 **Date**: October 22, 2025
