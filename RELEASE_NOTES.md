@@ -21,8 +21,8 @@
 - PR #4/#5: Conflict resolution for introduction perspectives
 
 ### Commits Referenced
-- feat: establish zine structure and layout (commit abc123)
-- feat: add scientific theories article (commit def456)
-- polish: enhance introduction with improved language (commit ghi789)
+- feat: establish zine structure and layout 
+- feat: add scientific theories article 
+- polish: enhance introduction with improved language
 **Contributor**: Bo Hubbard (wbhubbar)
 **Date**: October 22, 2025
